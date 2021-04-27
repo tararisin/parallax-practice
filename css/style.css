@@ -1,0 +1,41 @@
+.parallax_effect {
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+
+}
+
+
+
+
+
+#parallax_one {
+    height: 700px;
+    background-image:  url(../img/parallax_one.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+#parallax_two {
+    height: 700px;
+    background-image:  url(../img/parallax_one.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+
+.parallax_wrapper{
+    background-color: yellowgreen;
+    width: 800px;
+    height: 360px;
+    border-radius: 25px;
+    margin: 6rem auto;
+
+
+}
